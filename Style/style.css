@@ -139,3 +139,29 @@
 	margin-left: 39px;
 	vertical-align: top;
 }
+.contactheaderbottom{
+	margin-bottom: 24px;
+}
+.mapbackground{
+	background-color: #E6E6E6;
+	width: 1366px;
+	height: 570px;
+	margin-bottom: 32px;
+}
+.info{
+	padding-left: 97px;
+	padding-top: 57px;
+	vertical-align: top;
+}
+.h1{
+	font-size: 20px;
+	color: #3D58A6;
+}
+.p{
+	padding-top: 7px;
+}
+.map{
+	width: 874px;
+	padding-left: 55px;
+	padding-top: 49px;
+}
