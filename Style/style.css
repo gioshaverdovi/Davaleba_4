@@ -9,7 +9,7 @@
 	vertical-align: middle;
 }
 .navigation_a{
-	font-family: 'BPG Nino Mtavruli Bold';
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
 }
 .red{
 	color: red;
@@ -47,7 +47,7 @@
 }
 .satauri{
 	font-size: 20px;
-	font-family: 'BPG Nino Mtavruli';
+	font-family: 'BPG Nino Mtavruli', sans-serif;
 }
 .IMG{
 	margin-top: 23px;
@@ -59,7 +59,7 @@
 	margin-left: 39px;
 	width: 929px;
 	font-size: 16px;
-	font-family: 'BPG Nino Mtavruli';
+	font-family: 'BPG Nino Mtavruli', sans-serif;
 }
 .text{
 	padding-top: 23px;
@@ -97,7 +97,7 @@
 .boxtitle{
 	font-size: 24px;
 	margin-bottom: 37px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 
 }
 .box_1{
@@ -111,7 +111,7 @@
 	padding-left: 17px;
 	padding-top: 18px;
 	padding-bottom: 19px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 }
 .box_1_img{
 	width: 101px;
@@ -123,7 +123,7 @@
 	font-size: 20px;
 	padding-left: 56px;
 	width: 355px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 }
 .box_{
 	background-color: #F2F2F2;
@@ -140,7 +140,7 @@
 	font-size: 20px;
 	padding-left: 53px;
 	width: 354px;
-	font-family: 'Roboto';
+	font-family: 'Roboto', sans-serif;
 }
 .box_2_img{
 	width: 85px;
@@ -165,11 +165,11 @@
 .text_h1{
 	font-size: 20px;
 	color: #3D58A6;
-	font-family: 'BPG Nino Mtavruli Bold';
+	font-family: 'BPG Nino Mtavruli Bold', sans-serif;
 }
 .text_p{
 	padding-top: 7px;
-	font-family: 'BPG Ingiri Arial';
+	font-family: 'BPG Ingiri Arial', sans-serif;
 	font-weight: bold;
 }
 .span{
