@@ -20,3 +20,59 @@
 .kontaqti{
 	margin-left: 40px;
 }
+
+.section{
+	margin-left: 30px;
+	margin-top: 41px;
+}
+.box{
+	color: white;
+	font-size: 48px;
+	background-color: #3D58A6;
+	width: 56px;
+}
+.tve{
+	padding-top: 6px;
+	font-size: 22px;
+	color: #3D58A6;
+}
+
+.info{
+	margin-top: 30px;
+	margin-left: 30px;
+	margin-bottom: 73px;
+}
+.satauri{
+	font-size: 20px;
+}
+.IMG{
+	margin-top: 23px;
+	width: 270px;
+	vertical-align: top;
+}
+.statia{
+	margin-top: 23px;
+	margin-left: 39px;
+	width: 929px;
+	font-size: 16px;
+}
+.text{
+	padding-top: 23px;
+}
+.footer{
+	margin-left: 34px;
+	margin-bottom: 26px;
+}
+.icon_fb{
+	width: 14px;
+	margin-right: 35px;
+}
+.tixari{
+	background-color: #3D58A6;
+	width: 1.5px;
+	height: 27px;
+}
+.icon_youtube{
+	margin-left: 30px;
+	width: 25px;
+}
