@@ -76,3 +76,66 @@
 	margin-left: 30px;
 	width: 25px;
 }
+.banner_section{
+	margin-left: 89px;
+	margin-top: 77px;
+}
+}
+.banner{
+	width: 1169px;
+}
+.section2box{
+	margin-top: 125px;
+	margin-left: 98px;
+	margin-bottom: 68px;
+}
+.boxtitle{
+	font-size: 24px;
+	margin-bottom: 37px;
+
+}
+.box_1{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.qvesatauri1{
+	font-size: 22px;
+	color: #3D58A6;
+	padding-left: 17px;
+	padding-top: 18px;
+	padding-bottom: 19px;
+}
+.box_1_img{
+	width: 101px;
+	height: 130px;
+	margin-left: 39px;
+	vertical-align: top;
+}
+.boxtext1{
+	font-size: 20px;
+	padding-left: 56px;
+	width: 355px;
+}
+.box_{
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.box_2{
+	margin-left: 29px;
+	background-color: #F2F2F2;
+	width: 570px;
+	height: 225px;
+}
+.boxtext2{
+	font-size: 20px;
+	padding-left: 53px;
+	width: 354px;
+}
+.box_2_img{
+	width: 85px;
+	height: 128px;
+	margin-left: 39px;
+	vertical-align: top;
+}
